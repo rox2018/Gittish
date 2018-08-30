@@ -1,2 +1,1 @@
 # Gittish
-# Gittish
